@@ -3,7 +3,7 @@
 Este projeto contém os testes Feitos para a prova de Qualidade de Software(CYPRESS).  
 Os testes foram feitos utilizando **Cypress** e o relatório final é gerado automaticamente em **HTML** usando *cypress-mochawesome-reporter*.
 ---
-
+```
 ## Estruturas principais do Projeto
 Prova_EX1/
 │
@@ -30,6 +30,7 @@ Prova_EX1/
 ├── 🔒 package-lock.json      # Define versões exatas de todos os pacotes
 └── 📖 README.md             # Documentação do trabalho
 ## Configurações Principais
+```
 
 ### **cypress.config.js**
 Contém:
@@ -44,4 +45,5 @@ Inclui:
 - scripts NPM
 
 - suporte para rodar os testes e gerar relatório automaticamente
+
 
