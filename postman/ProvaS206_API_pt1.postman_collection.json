@@ -1,0 +1,69 @@
+{
+	"info": {
+		"_postman_id": "a994770f-d6b5-459d-bd8c-3f8893bb590f",
+		"name": "ProvaS206-Postman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "49961548",
+		"_collection_link": "https://leonardoferreira23-2803071.postman.co/workspace/Leonardo-S.-Ferreira's-Workspac~d2761bdf-7cae-48ab-84cc-aa7feda7575c/collection/49961548-a994770f-d6b5-459d-bd8c-3f8893bb590f?action=share&source=collection_link&creator=49961548"
+	},
+	"item": [
+		{
+			"name": "Listar usuarios",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Criar usuario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Buscar usuario",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "bearer",
+		"bearer": [
+			{
+				"key": "token",
+				"value": "7cf39732a1e198dd8e5e8ff3bd9c136c06135ff430eee6d37e39b9e3016fcc1d",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"requests": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
